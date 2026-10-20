@@ -1,0 +1,10 @@
+Subject: Reset your Example App password
+
+We received a request to reset your Example App password.
+Choose a new password:
+{{RESET_URL}}
+
+This link expires in {{MINUTES}} minutes.
+If you did not request this, you can ignore this email; your password will not change.
+
+Example App · Password reset notification
