@@ -28,3 +28,7 @@ The second command writes a **browser-only preview**, using an inert example.com
 Unit tests check HTML attribute escaping, matching destinations, placeholder replacement and basic input rejection. Browser inspection is not email-client certification. **No actual Gmail, Outlook, Apple Mail or deliverability tests have been performed.** This is not an authentication implementation or a security audit. No claim of universal email compatibility.
 
 [Sample walkthrough and proposed $49 six-message kit](https://earn2exist.com/transactional-email-kit.html). The kit is a concept, not for sale. Tell us which client and integration you need; no purchase or signup is required to use this sample.
+
+## Manual release QA
+
+Copy [QA-CHECKLIST.md](QA-CHECKLIST.md) for a client-by-client release record. All results start as not run; it is not a compatibility report.
